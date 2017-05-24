@@ -1,13 +1,12 @@
-[submodule "nurulhasanah2607"]
-	path = nurulhasanah2607
-	url = https://github.com/nurulhasanah2681/nurulhasanah2607.github.io.git
+[submodule "imasjs"]
+	path = imasjs
+	url = https://github.com/imasjs1608/imasjs.github.io.git
 	branch = master
 [submodule "wisna"]
 	path = wisna
 	url = https://github.com/wisna1605/wisna.github.io.git
 	branch = master
-[submodule "imasjs"]
-	path = imasjs
-	url = https://github.com/imasjs1608/imasjs.github.io.git
+[submodule "nurul"]
+	path = nurul
+	url = https://github.com/nurulhasanah2681/nurulhasanah2607.github.io.git
 	branch = master
-	
